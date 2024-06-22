@@ -22,12 +22,12 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/login-and-registration.git
+git clone https://github.com/youssefkhaled23/Authentication.git
 ```
 
 2. Install the dependencies:
 ```
-cd login-and-registration
+cd Authentication
 npm install
 ```
 
